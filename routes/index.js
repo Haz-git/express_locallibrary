@@ -6,4 +6,7 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: 'Express' });
 });
 
+//Routes for LocalLibrary:
+
+
 module.exports = router;
